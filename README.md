@@ -28,5 +28,10 @@ Theater/
 Open terminal in the Theater folder and run:
 
 bash
+
 javac LogIn.java
+
 java LogIn
+
+---
+**Note**: This is a Semester 1 Core Java project. It does not include any advanced Java features.
