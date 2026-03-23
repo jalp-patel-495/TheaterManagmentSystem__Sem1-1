@@ -88,7 +88,7 @@ javac Main.java
 java Main
 ```
 
----
+
 
 
 
@@ -116,6 +116,7 @@ java Main
 ## 👨‍💻 Author
 
 **Jalp Patel**
+
 📌 Semester Project
 
 ---
